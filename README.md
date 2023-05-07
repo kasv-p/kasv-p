@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm vyshnavi</h1>
 <h3 align="center">Driven to innovate and collaborate in the world of software development</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasv-p&label=Profile%20views&color=0e75b6&style=flat" alt="kasv-p" /> </p>
 
@@ -26,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasv-p&show_icons=true&locale=en" alt="kasv-p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasv-p&" alt="kasv-p" /></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kasv-p/count.svg" />
+</p>
