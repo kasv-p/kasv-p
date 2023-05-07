@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Dynamic Programming**
 
-- 👨‍💻 All of my projects are available at [https://kasv-p.github.io/Portfolio/](https://kasv-p.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://kasv-p.github.io/Portfolio/](here)
 
 - 💬 Ask me about **C, Python, Blockchain**
 
