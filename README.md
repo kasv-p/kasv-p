@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vyshnavi</h1>
-<h3 align="center">Exploring the Intersection of Computer Science and Creativity</h3>
+<h3 align="center">Driven to innovate and collaborate in the world of software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasv-p&label=Profile%20views&color=0e75b6&style=flat" alt="kasv-p" /> </p>
 
