@@ -4,10 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasv-p&label=Profile%20views&color=0e75b6&style=flat" alt="kasv-p" /> </p>
-<!--<p> 
-  <b>Visitor count</b>
-  <img src="https://profile-counter.glitch.me/kasv-p/count.svg" align="center"/>
-</p>-->
+
 
 - 🌱 I’m currently learning **DSA, React-Redux**
 
@@ -40,3 +37,6 @@
     <td><img src="https://profile-counter.glitch.me/kasv-p/count.svg" alt="" /></td>
   </tr>
 </table>
+<br>
+
+<b>click [here](https://github.com/kasv-p/kasv-p/issues/1#issuecomment-new/) to sign in my guestbook</b>
