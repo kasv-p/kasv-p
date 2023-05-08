@@ -39,4 +39,5 @@
 </table>
 <br>
 
-<b>click [here](https://github.com/kasv-p/kasv-p/issues/1#issuecomment-new/) to sign in my guestbook</b>
+<b>click <a href="https://github.com/kasv-p/kasv-p/issues/1#issuecomment-new/" target="_blank">here</a>
+ to sign in my guestbook</b>
