@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasv-p&label=Profile%20views&color=0e75b6&style=flat" alt="kasv-p" /> </p>
 
 
-- 🌱 I’m currently learning **DSA, React-Redux**
+- 🌱 I’m currently learning **Django**
 
 - 🤝 I’m looking for help with **Dynamic Programming**
 
