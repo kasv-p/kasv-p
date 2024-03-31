@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🤝 I’m looking for help with **Dynamic Programming**
+- 🤝 I’m looking for help with **Segment Trees**
 
 - 👨‍💻 All of my projects are available [here](https://kasv-p.github.io/Portfolio/)
 
-- 💬 Ask me about **C, Python, Blockchain**
+- 💬 Ask me about **Python, Blockchain, Doraemon**
 
 <!-- - 📫 How to reach me **ksvd1234@gmail.com** -->
 
