@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://kasv-p.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, Blockchain, Doraemon**
+- 💬 Ask me about **Python, Blockchain, Doraemon 😉**
 
 <!-- - 📫 How to reach me **ksvd1234@gmail.com** -->
 
