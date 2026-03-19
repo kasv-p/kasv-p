@@ -31,12 +31,6 @@
 
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=kasv-p&show_icons=true&locale=en&layout=compact" alt="kasv-p" />
 
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kasv-p/count.svg" alt="" /></td>
-  </tr>
-</table>
 <br>
 
 <b>click <a href="https://github.com/kasv-p/kasv-p/issues/1#issuecomment-new/" target="_blank">here</a>
