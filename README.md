@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasv-p&label=Profile%20views&color=brightgreen&style=flat" alt="kasv-p" /> </p>
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Rust**
 
 - 🤝 I’m looking for help with **Segment Trees**
 
