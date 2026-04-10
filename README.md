@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 🤝 I’m looking for help with **Segment Trees**
+- 🤝 I’m looking for help with **DSU**
 
 - 👨‍💻 All of my projects are available [here](https://kasv-p.github.io/Portfolio/)
 
